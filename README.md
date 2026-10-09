@@ -1,8 +1,8 @@
-# legendary-fiesta
+# Exercism Python Track Solutions
 
-This repository holds my solutions to the [Exercism](https://exercism.org/) Python track. I'll keep adding solutions to the problems on that track whenever time allows.
+This repository contains my solutions to exercises from the [Exercism Python track](https://exercism.org/tracks/python).
 
-I've used meaningful variable names and followed Google-style docstrings to make the solutions easy to understand.
+I worked through these exercises to practise Python and strengthen my problem-solving skills. I aim to keep the solutions readable through descriptive variable names and Google-style docstrings where appropriate.
 
 ### License
 
